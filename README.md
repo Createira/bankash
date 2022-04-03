@@ -1,4 +1,4 @@
-# Bankash Learning Project
+# [Bankash Learning Project](https://createira.github.io/bankash/)
 
 It is an exciting and simple bank account app. Now it has only dark mode and a desctop version. 
 
