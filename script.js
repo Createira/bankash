@@ -15,14 +15,14 @@ const account2 = {
 };
 
 const account3 = {
-  owner: "John Rockefeller",
+  owner: "Larry Ellison",
   movements: [200, -200, 340, -300, -20, 50, 400, -460],
   interestRate: 0.7,
   pin: 3333,
 };
 
 const account4 = {
-  owner: "Henry Ford",
+  owner: "Mark Zuckerberg",
   movements: [430, 1000, 700, 50, 90],
   interestRate: 1,
   pin: 4444,
